@@ -121,7 +121,7 @@ header nav {
 }
 
 .site-nav ul a {
-    color: #dddddd;
+    color: #ffffff;
     text-transform: none;
     height: auto;
     line-height: normal;

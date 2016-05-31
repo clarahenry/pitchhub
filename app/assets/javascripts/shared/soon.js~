@@ -9,7 +9,7 @@ $(function() {
 
     function notifyComingSoon(entity){
 
-        var message = entity + " coming soon!";
+        var message = entity + " coming never!";
 
         var opts = {
             text: message,

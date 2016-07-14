@@ -16,7 +16,7 @@ a {
 
 body {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #353535;
+    color: #414141;
     background-color: $background_color_body;
 }
 
